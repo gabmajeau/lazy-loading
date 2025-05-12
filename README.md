@@ -10,19 +10,7 @@ This project is a simple web page created for study purposes, demonstrating how 
 
 ## Demo
 
-![Lazy Loading Demo](.demo.gif)
-
-## 🛠 Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
-## 📚 What You Will Learn
-
-- How to delay the loading of images until they are needed
-- The difference between native lazy loading and custom implementation
-- How to use the Intersection Observer API to detect when elements enter the viewport
+![Lazy Loading Demo](./demo.gif)
 
 ## 📁 Project Structure
 
